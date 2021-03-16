@@ -1,32 +1,42 @@
-Project README
-Requirements
-The required bits and bobs of the project (e.g. CMS, Tailwind, etc.)
+# USA English Tutor README
 
-Project Notes
-Pertinent high-level information about the project
+## Requirements
 
-Setup
-Steps for setting things up, particularly if for a CMS
+_The required bits and bobs of the project (e.g. CMS, Tailwind, etc.)_
 
-Front-end Compiling
-Steps for front-end compiling
+## Project Notes
 
-Files & directories
-List of key files and directories, how they're organized and used, etc.
+_Pertinent high-level information about the project_
 
-Hacks/Kludges
-Hack/kludge name Short description of what was done and why, including any reference links
+## Setup
 
-When: date
+_Steps for setting things up, particularly if for a CMS_
 
-File(s):
+## Front-end Compiling
 
-Line #N in [path to file]
-Line #N in [path to file]
-Database: Note any changes to the database. If none, delete this line.
+_Steps for front-end compiling_
 
-Design Notes
-If needed, pertinent design notes
+## Files & directories
 
-Credits
-Kinda obvious, no? ;)
+_List of key files and directories, how they're organized and used, etc._
+
+## Hacks/Kludges
+
+1. **Hack/kludge name**
+   Short description of what was done and why, including any reference links
+
+   - **When:** date
+   - **File(s):**
+
+     - Line #N in `[path to file]`
+     - Line #N in `[path to file]`
+
+   - **Database:** Note any changes to the database. If none, delete this line.
+
+## Design Notes
+
+_If needed, pertinent design notes_
+
+## Credits
+
+_Kinda obvious, no? ;)_
