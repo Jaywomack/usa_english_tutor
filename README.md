@@ -2,7 +2,7 @@
 
 ## Requirements
 
-_The required bits and bobs of the project (e.g. CMS, Tailwind, etc.)_
+TailwindCSS
 
 ## Project Notes
 
