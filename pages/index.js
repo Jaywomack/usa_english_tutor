@@ -1,11 +1,12 @@
 import Meta from '../components/Meta';
-import styles from '../styles/Home.module.css';
-
 export default function Home() {
   return (
     <>
-      <Meta title='USA English Tutor | Home' />
-      <div>
+      <Meta
+        title='USA English Tutor | Home'
+        description='Professional English Tutors from the United States of America.'
+      />
+      <div className='h-screen'>
         <h1>Home page</h1>
       </div>
     </>

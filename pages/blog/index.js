@@ -1,16 +1,15 @@
-import Meta from '../components/Meta';
-const About = () => {
+import Meta from '../../components/Meta';
+
+export default function Blog() {
   return (
     <>
       <Meta
-        title='USA English Tutor | About'
+        title='USA English Tutor | Blog'
         description='Professional English Tutors from the United States of America.'
       />
       <div>
-        <h1>About Page</h1>
+        <h1>Blog page</h1>
       </div>
     </>
   );
-};
-
-export default About;
+}
