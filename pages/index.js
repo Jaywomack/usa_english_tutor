@@ -1,5 +1,5 @@
 import Meta from '../components/Meta';
-import PostCard from '../components/postCard';
+import PostCard from '../components/PostCard';
 export default function Home() {
   return (
     <>
