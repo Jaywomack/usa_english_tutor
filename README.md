@@ -2,6 +2,7 @@
 
 ## Requirements
 
+next-images
 TailwindCSS
 
 ## Project Notes
